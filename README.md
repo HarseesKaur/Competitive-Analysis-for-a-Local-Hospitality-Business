@@ -7,18 +7,18 @@ We have analysed 2 datasets catering to different purposes for a better assessme
 ## Dataset 1: Yearly Performance Analysis 
 Structure: Includes columns for Date, Revenue, Month, Year, and RevPAR.
 
-1.Historical Performance Analysis: Analyse the hotel’s business performance in terms of revenue over the years from 2013 to 2016.
+### 1.Historical Performance Analysis: Analyse the hotel’s business performance in terms of revenue over the years from 2013 to 2016.
 
-2.Competitor Comparison: Measure the business's monthly performance against competitors for the year 2016 using RevPAR and growth rates to compare the business's metrics with competitors to identify areas of strength and opportunities for improvement.
+### 2.Competitor Comparison: Measure the business's monthly performance against competitors for the year 2016 using RevPAR and growth rates to compare the business's metrics with competitors to identify areas of strength and opportunities for improvement.
 
 ## Dataset 2: Detailed monthly analysis using competitor's indexes 
 Structure: Comprehensive dataset with guest-specific details, booking sources, room types, rates, and occupancy details.
 
-1.Competitor Index for RevPAR: Benchmark the hotel's RevPAR (Revenue per Available Room) against its competitors on a monthly basis to evaluate how well the hotel is utilizing its room inventory to generate revenue compared to competitors, identifying areas where the hotel may be underperforming or excelling.
+### 1.Competitor Index for RevPAR: Benchmark the hotel's RevPAR (Revenue per Available Room) against its competitors on a monthly basis to evaluate how well the hotel is utilizing its room inventory to generate revenue compared to competitors, identifying areas where the hotel may be underperforming or excelling.
 
-2.Competitor Index for Occupancy: Compare the hotel's occupancy rate against competitors' rates in each month to assess the hotel's ability to attract guests compared to competitors during a specific period, highlighting strengths or weaknesses in marketing or operational efficiency.
+### 2.Competitor Index for Occupancy: Compare the hotel's occupancy rate against competitors' rates in each month to assess the hotel's ability to attract guests compared to competitors during a specific period, highlighting strengths or weaknesses in marketing or operational efficiency.
 
-3.Competitor Index for ADR: Evaluate the hotel's ADR (Average Daily Rate) and its competitiveness in pricing relative to competitors to identify if the hotel is pricing competitively in the market.
+### 3.Competitor Index for ADR: Evaluate the hotel's ADR (Average Daily Rate) and its competitiveness in pricing relative to competitors to identify if the hotel is pricing competitively in the market.
 
 ## Tools/Techniques Used:
 Excel: Utilized Excel functions (e.g., SUMIFS, AVERAGEIFS, COUNTIFS) for data aggregation, calculation of metrics, and competitor indices.
