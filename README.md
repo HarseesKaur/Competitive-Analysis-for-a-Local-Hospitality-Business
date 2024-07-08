@@ -8,6 +8,7 @@ Dataset 1: Performance Analysis (2013-2016)
 Structure: Includes columns for Date, Revenue, Month, Year, and RevPAR.
 
 1.Historical Performance Analysis: Analyse the hotel’s business performance in terms of revenue over the years from 2013 to 2016.
+
 2.Competitor Comparison: Measure the business's monthly performance against competitors for the year 2016 using RevPAR and growth rates to compare the business's metrics with competitors to identify areas of strength and opportunities for improvement.
 
 Dataset 2: Detailed monthly analysis 
