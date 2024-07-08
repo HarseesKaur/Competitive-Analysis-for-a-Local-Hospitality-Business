@@ -25,7 +25,8 @@ Compare the hotel's occupancy rate against competitors' rates in each month to a
 ### 3.Competitor Index for ADR
 Evaluate the hotel's ADR (Average Daily Rate) and its competitiveness in pricing relative to competitors to identify if the hotel is pricing competitively in the market.
 
-## Tools/Techniques Used:
-Excel: Utilized Excel functions (e.g., SUMIFS, AVERAGEIFS, COUNTIFS) for data aggregation, calculation of metrics, and competitor indices.
+## Tools/Techniques Used
+Utilized Excel functions (e.g., SUMIFS, AVERAGEIFS, COUNTIFS) for data aggregation, calculation of metrics, and competitor indices.
 
-## Outcome: Empowered the business to make informed decisions aimed at optimizing revenue, improving occupancy rates, and strategically setting ADR to outperform competitors.
+## Outcome
+Empowered the business to make informed decisions aimed at optimizing revenue, improving occupancy rates, and strategically setting ADR to outperform competitors.
