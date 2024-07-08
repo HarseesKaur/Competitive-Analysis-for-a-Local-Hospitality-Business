@@ -4,7 +4,7 @@ Description: In this project, we delve into revenue analysis of a local hospital
 
 We have analysed 2 datasets catering to different purposes for a better assessment 
 
-## Dataset 1: Yearly performance Analysis 
+## Dataset 1: Yearly Performance Analysis 
 Structure: Includes columns for Date, Revenue, Month, Year, and RevPAR.
 
 1.Historical Performance Analysis: Analyse the hotel’s business performance in terms of revenue over the years from 2013 to 2016.
